@@ -1,0 +1,114 @@
+.body {
+  background-color: #e0ebe8;
+}
+
+.container {
+  font-family: "Cormorant Garamond", serif;
+}
+
+.heading {
+  text-align: center;
+
+}
+
+.heading p{
+  width: 100%;
+}
+
+.objective {
+  padding-left: 20px;
+}
+
+p{
+  width: 50%;
+}
+
+.profilesummary {
+  padding-left: 20px;
+  align-items: center;
+  padding-bottom: 25px;
+  line-height: 25px;
+}
+
+.internships {
+  padding-left: 20px;
+  padding-bottom: 25px;
+}
+
+.academicdetails {
+  padding-left: 20px;
+}
+
+.onlinecourses {
+  padding-left: 20px;
+}
+
+.domainknowledge {
+  padding-left: 20px;
+  padding-bottom: 25px;
+  line-height: 30px;
+}
+
+.domainknowledge hr {
+  margin-bottom: 25px;
+}
+
+.projects{
+  padding-left: 20px;
+}
+
+.personalinformation {
+  padding-left: 20px;
+}
+
+.declaration {
+  padding-left: 20px;
+}
+
+hr {
+  width: 10%;
+  margin-right: 100%;
+  border: #66bfbf dotted 5px;
+  border-bottom: 0;
+  margin-bottom: 10px;
+  
+}
+
+h4 {
+  color: #66bfbf;
+}
+h5{
+  font-size: 1rem;
+}
+
+.footer {
+  background-color:#217d68;
+  justify-content: center;
+  display: flex;
+  width: 100%;
+}
+
+table{
+  border: 2px solid #66bfbf;
+  border-radius: 2px;
+}
+
+th{
+  
+}
+
+
+p{
+ font-size: 20px;
+}
+
+
+li{
+  font-size: 20px;
+}
+
+.github{
+  height: 35px;
+  width: 40px;
+  padding-bottom: 11px;
+}
